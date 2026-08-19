@@ -1,0 +1,1 @@
+import type {CapacitorConfig} from "@capacitor/cli"; const config:CapacitorConfig={appId:"com.princenue.mlbbdraftassistant",appName:"MLBB Draft Assistant by Princenue",webDir:"dist"}; export default config;
